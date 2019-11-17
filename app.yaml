@@ -1,0 +1,9 @@
+runtime: nodejs10
+env_variables:
+  DB_USER: "root"
+  DB_PASS: "password1"
+  DB_NAME: "push_notif"
+  # e.g. my-awesome-project:us-central1:my-cloud-sql-instance
+  CLOUD_SQL_CONNECTION_NAME: "push-notif-259017:europe-west6:pushnotifications"
+
+service: my-second-app
