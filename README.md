@@ -11,6 +11,11 @@ Apis related to sites apis/sites.
 DBConnector is used to create a db pool which is later used to perfoorm the queries
 DbHelper is the layer which performs the database queries.
 
+In order to authenticate use the following credentials :
 
+Username : eraldo.keshi@hotmail.com
 
+Password: test
+
+Picture which describes the architecture of the project.
 ![alt text](https://storage.googleapis.com/scripts-push-notf/Alpha%20Push%20Architecture.png)
