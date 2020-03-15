@@ -1,13 +1,16 @@
-# go-alpha-Main-App-Angular-Node-
+# go-alpha-Main-App-Angular-Node
 https://my-second-app-dot-push-notif-259017.appspot.com/home
 
+This service contains the built Angular front-end together with all NodeJS APIs
 
-Ky service permban front endin e build-ur te angular . si dhe te gjitha Api e ndertuara ne nodejs.
-Nga front end mund te shtohen sites dhe te shtohen fushata te ndryshme.
+From the front end you can authenticate, create new site and create different campaigns.
 
-Api ndodhen ne apis/sites.
-Sourcet e front end ndodhen ne folderin public .
+Apis related to authentication apis/users/
+Apis related to sites apis/sites.
 
-DbConnector ben krijimin e nje pool me db.
-DbHelper eshte shtresa ne te cilen behet nderveprimi me databazen.
+DBConnector is used to create a db pool which is later used to perfoorm the queries
+DbHelper is the layer which performs the database queries.
 
+
+
+![alt text](https://storage.googleapis.com/scripts-push-notf/Alpha%20Push%20Architecture.png)
