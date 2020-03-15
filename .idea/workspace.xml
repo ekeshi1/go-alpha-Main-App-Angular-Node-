@@ -2,74 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f68e1d7f-a1e8-48f8-87eb-c2f30a353e2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/apis/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/userHelper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/tokenModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/userModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/passport.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apis/sites.js" beforeDir="false" afterPath="$PROJECT_DIR$/apis/sites.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/dbConnector.js" beforeDir="false" afterPath="$PROJECT_DIR$/db/dbConnector.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/dbHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/db/dbHelper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/3rdpartylicenses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/3rdpartylicenses.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/highlightjs/material-dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/highlightjs/material-dark.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/highlightjs/material-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/highlightjs/material-light.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/_app.variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/_app.variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/_core.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/_material.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/_material.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/_material.themes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/_material.themes.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/_material.variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/_material.variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/components/_calendar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/components/_calendar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/components/_chat.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/components/_chat.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/components/_editor.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/components/_editor.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/components/_messages.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/components/_messages.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/components/_perfect-scrollbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/components/_perfect-scrollbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/components/_pricing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/components/_pricing.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/components/_product-detail.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/components/_product-detail.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/components/_social.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/components/_social.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/components/_table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/components/_table.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/components/_taskboard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/components/_taskboard.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/components/_timeline.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/components/_timeline.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/components/_upload.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/components/_upload.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/core/_main-header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/core/_main-header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/core/_main-panel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/core/_main-panel.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/core/_main-sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/core/_main-sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/core/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/core/_media.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/core/_notification-sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/core/_notification-sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/core/_scaffolding.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/core/_scaffolding.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/core/_sessions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/core/_sessions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/core/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/core/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/material/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/material/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/material/_cards.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/material/_cards.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/material/_dialog.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/material/_dialog.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/material/_lists.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/material/_lists.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/material/_menus.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/material/_menus.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/material/_select.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/material/_select.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/material/_tabs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/material/_tabs.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/mixins/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/mixins/_breakpoints.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/mixins/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/mixins/_clearfix.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/mixins/_flex.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/mixins/_flex.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/mixins/_hover.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/mixins/_hover.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/mixins/_misc.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/mixins/_misc.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/mixins/_text-emphasis.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/mixins/_text-emphasis.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/mixins/bi-app/_bi-app-ltr.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/mixins/bi-app/_bi-app-ltr.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/mixins/bi-app/_bi-app-rtl.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/mixins/bi-app/_bi-app-rtl.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/mixins/bi-app/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/mixins/bi-app/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/mixins/bi-app/_variables-ltr.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/mixins/bi-app/_variables-ltr.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/mixins/bi-app/_variables-rtl.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/mixins/bi-app/_variables-rtl.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/utilities/_background.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/utilities/_background.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/utilities/_general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/utilities/_general.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/utilities/_spacing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/utilities/_spacing.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/utilities/_text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/utilities/_text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/styles/scss/utilities/utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/styles/scss/utilities/utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/main.3e67e5d9d445cc9d6c16.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles.5beaa4cfa9e691913ac4.css" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +29,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Th9jTFNTtaB5lqQbvlsXg4irVv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -139,7 +75,7 @@
       <workItem from="1573942037254" duration="5211000" />
       <workItem from="1573980616437" duration="16004000" />
       <workItem from="1583860927834" duration="21421000" />
-      <workItem from="1584274535881" duration="231000" />
+      <workItem from="1584274535881" duration="1509000" />
     </task>
     <servers />
   </component>
@@ -158,6 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

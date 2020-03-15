@@ -2,7 +2,7 @@ let mysql = require('mysql');
 let pool  = mysql.createPool({
     connectionLimit : 10,
     //socketPath: `/cloudsql/push-notif-259017:europe-west6:pushnotifications`,
-/*    host            : '34.65.49.75',
+    /*host            : '34.65.49.75',
     user            : 'root',
     password        : 'password1',
     database        : 'push_notif',*/
