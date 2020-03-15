@@ -29,6 +29,7 @@ module.exports.insertSite = async function( hash , siteUrl, siteName,userEmail,c
 
 cb({
     message: "Site Added",
+    hash : hash,
     status: 1
 })
     });
@@ -38,6 +39,7 @@ cb({
 
 module.exports.getAllSites = async function( userEmail, cb ) {
     console.log("came");
+    console.log(userEmail);
     pool.query("select  s.id_site,\n" +
         "    s.site_name,\n" +
         "    s.user_email, \n" +
@@ -55,6 +57,8 @@ module.exports.getAllSites = async function( userEmail, cb ) {
              status : 0
          })
      }
+        console.log(results);
+
         let arr = [];
     results.forEach((row,index)=>{
         console.log(index);

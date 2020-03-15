@@ -138,6 +138,9 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 amazing-time-picker
 MIT
 
+angular2-flash-messages
+MIT
+
 core-js
 MIT
 Copyright (c) 2014-2019 Denis Pushkarev

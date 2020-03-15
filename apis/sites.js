@@ -18,10 +18,12 @@ const serviceAccountEmail = "cloud-tasker-service@push-notif-259017.iam.gservice
 router.get('/getAllSites',(req,res,next)=>{
 
     const userEmail = req.query.userEmail;
+    console.log('Getting all sites');
     console.log(userEmail);
     dbHelper.getAllSites(userEmail,(response)=>{
 
         res.json(response);
+
 
     })
 
